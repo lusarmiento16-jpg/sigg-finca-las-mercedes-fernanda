@@ -15,11 +15,13 @@
     --hueso:       #FAFAF8;   /* fondo de la página */
     --borde:       #E2DFD7;   /* líneas y bordes */
     --blanco:      #FFFFFF;
+    
+:root {
 
     /* Tipografías */
     --display: "Big Shoulders Display", "Big Shoulders", "Arial Narrow", sans-serif;
-    --texto:   "Public Sans", system-ui, sans-serif;
-    --dato:    "IBM Plex Mono", monospace;
+    --texto: "Public Sans", system-ui, sans-serif;
+    --dato: "IBM Plex Mono", monospace;
 
     /* Medidas */
     --ancho: 1180px;
